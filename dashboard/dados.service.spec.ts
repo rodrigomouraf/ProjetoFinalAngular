@@ -9,8 +9,5 @@ describe('DadosService', () => {
     ]
   }));
 
-  it('should ...', inject([DadosService], (service: DadosService) => {
-    const service: DadosService = TestBed.get(DadosService);
-    expect(service).toBeTruthy();
-  }));
+
 });
